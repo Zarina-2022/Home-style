@@ -2,11 +2,11 @@
 
 Screen view:
 
-![](wphs.gif)
+![](webpage.gif)
 
 <h1>This web site is one of my first projects that I did. </1>
 
-<h3>And believe me, it was not easy for me.</h3>
+<h3>And believe me, it was fun and exciting for me.</h3>
 
 While creating this web page I used such programs as </br> 
 
@@ -22,7 +22,7 @@ CSS and HTML </h3>
 
 <h2> How to install and run the project. </h2>
 
-![](Homestyle.gif)
+![](download.gif)
 
 Do share your valuable opinion, I appreciate your honest </br>
 
