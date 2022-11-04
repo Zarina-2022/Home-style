@@ -1,6 +1,8 @@
 # Home-style
 
-![](wp hs.gif)
+Screen view:
+
+![](wphs.gif)
 
 <h1>This web site is one of my first projects that I did. </1>
 
@@ -20,7 +22,7 @@ CSS and HTML </h3>
 
 <h2> How to install and run the project. </h2>
 
-![](Home style.gif)
+![](Homestyle.gif)
 
 Do share your valuable opinion, I appreciate your honest </br>
 
