@@ -2,7 +2,7 @@
 
 Screen view:
 
-![](webpage.gif)
+![](home.gif)
 
 <h1>This web site is one of my first projects that I did. </1>
 
